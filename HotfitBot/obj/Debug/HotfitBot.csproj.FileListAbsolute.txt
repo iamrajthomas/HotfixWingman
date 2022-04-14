@@ -1,0 +1,9 @@
+C:\TFS\source\repos\HotfixBot\HotfitBot\bin\Debug\HotfitBot.exe.config
+C:\TFS\source\repos\HotfixBot\HotfitBot\bin\Debug\HotfitBot.exe
+C:\TFS\source\repos\HotfixBot\HotfitBot\bin\Debug\HotfitBot.pdb
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.Form1.resources
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.Properties.Resources.resources
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.csproj.GenerateResource.cache
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.csproj.CoreCompileInputs.cache
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.exe
+C:\TFS\source\repos\HotfixBot\HotfitBot\obj\Debug\HotfitBot.pdb

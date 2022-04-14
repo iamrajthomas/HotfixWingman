@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotfitBot", "HotfitBot\HotfitBot.csproj", "{D520921C-0BB9-4ABA-9D52-83C7EB1F71F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8C561A-C3E0-4BA4-9954-58BC11F7CEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8C561A-C3E0-4BA4-9954-58BC11F7CEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8C561A-C3E0-4BA4-9954-58BC11F7CEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8C561A-C3E0-4BA4-9954-58BC11F7CEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D520921C-0BB9-4ABA-9D52-83C7EB1F71F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D520921C-0BB9-4ABA-9D52-83C7EB1F71F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D520921C-0BB9-4ABA-9D52-83C7EB1F71F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D520921C-0BB9-4ABA-9D52-83C7EB1F71F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC226FB-53E2-42F3-924D-FF400E338921}
+	EndGlobalSection
+EndGlobal
